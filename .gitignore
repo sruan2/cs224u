@@ -2,6 +2,7 @@
 # Sherry
 venv/
 trainDevTestTrees_PTB.zip
+nlidata.zip
 
 __pycache__/
 *.py[cod]
